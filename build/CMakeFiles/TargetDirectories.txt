@@ -1,0 +1,3 @@
+/home/nathan/projects/CudaMC/build/CMakeFiles/rebuild_cache.dir
+/home/nathan/projects/CudaMC/build/CMakeFiles/edit_cache.dir
+/home/nathan/projects/CudaMC/build/CMakeFiles/cudamc.dir

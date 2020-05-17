@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/java_random.h
+algorithm
+-
+atomic
+-
+limits
+-
+
+/home/nathan/projects/CudaMC/src/algorithm.h
+climits
+-
+cstdint
+-
+
+/home/nathan/projects/CudaMC/src/biome_generator.cpp
+biome_generator.h
+/home/nathan/projects/CudaMC/src/biome_generator.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/nathan/projects/CudaMC/src/biome_generator.h
+limits
+-
+memory
+-
+algorithm.h
+/home/nathan/projects/CudaMC/src/algorithm.h
+java_random.h
+/home/nathan/projects/CudaMC/src/java_random.h
+
